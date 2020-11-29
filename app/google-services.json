@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "984438845770",
+    "firebase_url": "https://treateasy-29d2b.firebaseio.com",
+    "project_id": "treateasy-29d2b",
+    "storage_bucket": "treateasy-29d2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984438845770:android:1c27c70cddf1e0495551b3",
+        "android_client_info": {
+          "package_name": "com.example.treateasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984438845770-30ft0srqshquli9lell8pharlbsij5id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCEJm9u4g_MPrm0nmBXcjrpPy0qYZnPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984438845770-30ft0srqshquli9lell8pharlbsij5id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
